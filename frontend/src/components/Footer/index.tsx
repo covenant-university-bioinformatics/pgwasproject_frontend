@@ -35,7 +35,7 @@ const Footer: React.FC<Props> = (props) => {
         <div className={classes.Footer__Copy}>
           <p>Copyright &copy; {new Date().getFullYear()} Sysbiol PGWAS. All rights reserved</p>
           <div className={classes.Footer__Socials}>
-            <a href="mailto:ezekiel.adebiyi@covenantuniversity.edu.ng">
+            <a href="mailto:e.adebiyi@dkfz.de">
               <EmailIcon />
             </a>
             <a href="https://twitter.com/cubrenig">
